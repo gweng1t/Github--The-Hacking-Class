@@ -1,4 +1,10 @@
 # README
+CASSAND Gwendoline & Nancy
+
+# LANCER CES COMMANDES:
+* $ bundle install
+* $ rails bd:migrate
+* $ rails bd:seed
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
