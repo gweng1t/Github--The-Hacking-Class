@@ -1,5 +1,5 @@
 # README
-
+CASSAND Gwendoline & Nancy
 ### Version ruby
 
 ruby '2.5.1'
